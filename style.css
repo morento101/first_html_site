@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+    width: 70%;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+table {
+    width: 70%;
+    border: 1px solid black;
+}
+
+figure {
+    float: right;
+    width: 11em
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 13px;
+}
+
+img {
+    width: 100%;
+}
+
+blockquote {
+    width: 70%;
+}
